@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Izaias">
 
 <p align="left"> 
- Olá meu nome é Izaias, sou formado em ciencias da computação enfase em ciencias de dados e engenharia de inteligencia artificial minhas princiapais areas de atuação
+ Olá meu nome é Izaias Henrique, sou formado em ciencias da computação enfase em ciencias de dados e engenharia de inteligencia artificial minhas princiapais areas de atuação
 </p>
 
 <p align="left">

@@ -18,5 +18,5 @@
 
 <p align="left">  
   <a href="https://www.linkedin.com/in/iza%C3%ADas-henrique-de-sousa-junior-171a2a155/" alt="Linkedin">
-  <img src="https://media-exp1.licdn.com/dms/image/C5603AQEIgZX6w6WNWg/profile-displayphoto-shrink_200_200/0/1592426420981?e=1623283200&v=beta&t=335rQV5rGWA7vfxRzC-lCE4g-    ZWDouWD3HQdMpQIME8" /></a>
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/exudojazz/"/></a>
 </p>  

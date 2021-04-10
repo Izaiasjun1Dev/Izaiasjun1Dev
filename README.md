@@ -20,3 +20,8 @@
   <a href="https://www.linkedin.com/in/iza%C3%ADas-henrique-de-sousa-junior-171a2a155/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
 </p>  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:solucaoprogramer@gmail.com">
+   <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:solucaoprogramer@gmail">
+</a>

@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Python, data science, JavaScript, Node.js, Bootstrap and UI/UX Design.</strong>
+  🦄 Habilidades: <strong>Python, Data science, JavaScript, Node.js, Django, Next.js </strong>
 </p>
 
 <p align="left">

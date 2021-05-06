@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Python, Data science, JavaScript, Node.js, Django, Next.js </strong>
+  🦄 Habilidades: <strong>Python, Data science, JavaScript, Node.js, Django, Next.js, BucketS3, aws, ec2, Elastic Search </strong>
 </p>
 
 <p align="left">

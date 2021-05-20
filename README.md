@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>Python, Data science, Data engineering JavaScript, Node.js, Django, Django rest framework, Nest.js, BucketS3, aws, ec2, Elastic Search, jenkins </strong>
+  🦄 Habilidades: <strong>Python, Data science, Data engineering JavaScript, Node.js, apiGateway, DynamoDb, PostgresSql, MongoDb, Django, Django rest framework, Nest.js, BucketS3, aws, ec2, Elastic Search, jenkins </strong>
 </p>
 
 <p align="left">
